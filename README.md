@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+跟着教程走一遍
+
+学习学习
